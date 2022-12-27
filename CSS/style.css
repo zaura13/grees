@@ -58,7 +58,7 @@
 /* / banner  */
 .banner{
     height:570px ;
-    background-image: url(/images/2.03_Banner_Background.png);
+    background-image: url(../images/banner.png);
     background-position: center;
     object-fit: cover;
     background-color: rgb(100, 248, 248);
